@@ -1,5 +1,14 @@
 # @medusajs/index
 
+## 2.6.2
+
+### Patch Changes
+
+- [#11821](https://github.com/medusajs/medusa/pull/11821) [`5cf0bf4d93b5fd965680223dd448324c5135426e`](https://github.com/medusajs/medusa/commit/5cf0bf4d93b5fd965680223dd448324c5135426e) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - chore: transform filter before query.index
+
+- Updated dependencies [[`ec56a8bc857a74788df6523af25914da95c4c1d8`](https://github.com/medusajs/medusa/commit/ec56a8bc857a74788df6523af25914da95c4c1d8)]:
+  - @medusajs/framework@2.6.2
+
 ## 2.6.1
 
 ### Patch Changes

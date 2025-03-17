@@ -1,5 +1,12 @@
 # @medusajs/admin-sdk
 
+## 2.6.2
+
+### Patch Changes
+
+- Updated dependencies [[`5ab15a29889870411b719ebad3fb94786baee45e`](https://github.com/medusajs/medusa/commit/5ab15a29889870411b719ebad3fb94786baee45e), [`5ab15a29889870411b719ebad3fb94786baee45e`](https://github.com/medusajs/medusa/commit/5ab15a29889870411b719ebad3fb94786baee45e)]:
+  - @medusajs/admin-shared@2.6.2
+
 ## 2.6.1
 
 ### Patch Changes
