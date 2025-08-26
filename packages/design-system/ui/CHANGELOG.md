@@ -1,5 +1,14 @@
 # @medusajs/ui
 
+## 4.0.20
+
+### Patch Changes
+
+- [#13092](https://github.com/medusajs/medusa/pull/13092) [`5b7a0412463ebab1dbc86c29024c1fd326ac47fc`](https://github.com/medusajs/medusa/commit/5b7a0412463ebab1dbc86c29024c1fd326ac47fc) Thanks [@fPolic](https://github.com/fPolic)! - chore(ui): display toast in top right corner
+
+- Updated dependencies []:
+  - @medusajs/icons@2.10.0
+
 ## 4.0.19
 
 ### Patch Changes
