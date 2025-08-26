@@ -1,5 +1,14 @@
 # @medusajs/event-bus-redis
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13281](https://github.com/medusajs/medusa/pull/13281) [`fc4925327334c540c0125a91e81794c3c1f340e7`](https://github.com/medusajs/medusa/commit/fc4925327334c540c0125a91e81794c3c1f340e7) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(core, event-bus): Compensate emit event step utility
+
+- Updated dependencies [[`e413cfefc2e0579ba7c5299dc4f4270310e39c2c`](https://github.com/medusajs/medusa/commit/e413cfefc2e0579ba7c5299dc4f4270310e39c2c), [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3)]:
+  - @medusajs/framework@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes

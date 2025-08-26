@@ -1,5 +1,11 @@
 # @medusajs/admin-shared
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13208](https://github.com/medusajs/medusa/pull/13208) [`4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d`](https://github.com/medusajs/medusa/commit/4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard, js-sdk): shipping option type mngmt dashboard
+
 ## 2.9.0
 
 ## 2.8.8

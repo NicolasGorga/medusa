@@ -1,5 +1,20 @@
 # @medusajs/fulfillment
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13226](https://github.com/medusajs/medusa/pull/13226) [`67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad`](https://github.com/medusajs/medusa/commit/67d3660abf3ceeac3f04006fe5e92d2fa7c0ccad) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard, core-flows): associate shipping option to type
+
+- [#13280](https://github.com/medusajs/medusa/pull/13280) [`57077406f9ce5d3bc1008b643a055f294de838eb`](https://github.com/medusajs/medusa/commit/57077406f9ce5d3bc1008b643a055f294de838eb) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows, fulfillment): don't cascade delete shipping option type when shipping option is deleted
+
+- [#13191](https://github.com/medusajs/medusa/pull/13191) [`34c3c14e0a1491ab80473605018b97981544167d`](https://github.com/medusajs/medusa/commit/34c3c14e0a1491ab80473605018b97981544167d) Thanks [@willbouch](https://github.com/willbouch)! - chore(types, api): support shipping option type api endpoints
+
+- [#13208](https://github.com/medusajs/medusa/pull/13208) [`4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d`](https://github.com/medusajs/medusa/commit/4b3c43fe92d99a98b3d7b9ee6705114de01cbc5d) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard, js-sdk): shipping option type mngmt dashboard
+
+- Updated dependencies [[`e413cfefc2e0579ba7c5299dc4f4270310e39c2c`](https://github.com/medusajs/medusa/commit/e413cfefc2e0579ba7c5299dc4f4270310e39c2c), [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3)]:
+  - @medusajs/framework@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes

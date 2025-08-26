@@ -1,5 +1,14 @@
 # @medusajs/link-modules
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13263](https://github.com/medusajs/medusa/pull/13263) [`486621383a79e83c831933c1a0ffdae58a695cb0`](https://github.com/medusajs/medusa/commit/486621383a79e83c831933c1a0ffdae58a695cb0) Thanks [@willbouch](https://github.com/willbouch)! - feat(dashboard,core-flows,js-sdk,link-modules,promotion): free shipping promotion in dashboard
+
+- Updated dependencies [[`e413cfefc2e0579ba7c5299dc4f4270310e39c2c`](https://github.com/medusajs/medusa/commit/e413cfefc2e0579ba7c5299dc4f4270310e39c2c), [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3)]:
+  - @medusajs/framework@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes

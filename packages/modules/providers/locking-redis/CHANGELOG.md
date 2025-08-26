@@ -1,5 +1,14 @@
 # @medusajs/locking-redis
 
+## 2.10.0
+
+### Patch Changes
+
+- [#13221](https://github.com/medusajs/medusa/pull/13221) [`83d2ce762c952c01b8d3e83cc64fd95c9e9573f5`](https://github.com/medusajs/medusa/commit/83d2ce762c952c01b8d3e83cc64fd95c9e9573f5) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - chore(locking-redis): default TTL to acquire lock
+
+- Updated dependencies [[`e413cfefc2e0579ba7c5299dc4f4270310e39c2c`](https://github.com/medusajs/medusa/commit/e413cfefc2e0579ba7c5299dc4f4270310e39c2c), [`b152210554d63f2dceec4deda8997c67207ae3a3`](https://github.com/medusajs/medusa/commit/b152210554d63f2dceec4deda8997c67207ae3a3)]:
+  - @medusajs/framework@2.10.0
+
 ## 2.9.0
 
 ### Patch Changes
